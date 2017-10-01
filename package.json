@@ -1,0 +1,10 @@
+{
+  "name": "Google-Geocode-API-JavaScript",
+  "version": "1.0.0",
+  "description": "An API for Google Geocode",
+  "main": "main.js",
+  "repository": "git@github.com:iamraghav/Google-Geocode-API-JavaScript.git",
+  "author": "iamraghav <raghav3992@gmai.com>",
+  "license": "ISC",
+  "private": false
+}
