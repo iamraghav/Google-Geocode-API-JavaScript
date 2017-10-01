@@ -6,5 +6,8 @@
   "repository": "git@github.com:iamraghav/Google-Geocode-API-JavaScript.git",
   "author": "iamraghav <raghav3992@gmai.com>",
   "license": "ISC",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
 }
